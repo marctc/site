@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Tudurí</title>
+    <link>https://marctuduri.com/</link>
+    <description>Recent content on Marc Tudurí</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 01 Jul 2018 21:47:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://marctuduri.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code</title>
+      <link>https://marctuduri.com/code/</link>
+      <pubDate>Sun, 01 Jul 2018 21:47:21 +0200</pubDate>
+      
+      <guid>https://marctuduri.com/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New site with Hugo</title>
+      <link>https://marctuduri.com/blog/new-site-with-hugo/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/blog/new-site-with-hugo/</guid>
+      <description>Hi,
+My old site was a little bit abandoned and hard to update so I decided to renew it.
+For this time, I decided to use a static site generator so I gave a chance to Hugo. I never tried before but I discovered that it has its own themes site which is awesome as saves you a lot of customization time. By the way, if you wonder what template I&amp;rsquo;m using is the Cocoa enhanced theme.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://marctuduri.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/home/</guid>
+      <description>Hi, I&amp;rsquo;m Marc!
+I&amp;rsquo;m Software Engineer passionate with distributed systems, software architecture and data. Python and Go are the most used languages.
+Music geek and guitar player (Fura), initiate homebrewer and sarcasm lover.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://marctuduri.com/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marctuduri.com/license/</guid>
+      <description>You can use this page to put a license on the contents of your blog, like so:
+ The MIT License (MIT)
+Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+  </channel>
+</rss>
