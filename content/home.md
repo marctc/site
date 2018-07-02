@@ -4,7 +4,7 @@ title = "Home"
 
 Hi, I'm Marc!
 
-I'm Software Engineer passionate with distributed systems, software architecture and data. Python and Go are the most used languages.
+I'm a software engineer focused in backend and infrastructure systems. I like distributed systems, software architecture and data engineering. I speak mostly Python and Go.
+Proud FSF member for almost a decade, Open Source maintainer and technical conferences attender.
 
-Music geek and guitar player (Fura), initiate homebrewer and sarcasm lover.
-
+Besides that, I'm a music nerd, audiophile and instrumental rock guitar player ([Fura](http://fura.rocks)). I also love beer and homebrewing.
