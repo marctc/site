@@ -1,8 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:marctc/marctc.github.io
-	branch = master
 [submodule "themes/cocoa-eh"]
 	path = themes/cocoa-eh
 	url = git@github.com:marctc/cocoa-eh-hugo-theme
-	branch = master
