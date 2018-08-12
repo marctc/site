@@ -6,13 +6,14 @@ draft: true
 
 ### Reading
 
-* [Kubernetes Up & Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677/)
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 * [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
 * [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965/)
 
 ### Read
 
+* [Kubernetes Cookbook](https://www.amazon.com/Kubernetes-Cookbook-Building-Native-Applications/dp/1491979682)
+* [Kubernetes Up & Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677/)
 * [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/)
 * [The Hacker's Guide to Scaling Python](https://www.amazon.com/Hackers-Guide-Scaling-Python/dp/1387379321)
 * [Fundamentals of Deep Learning](https://www.amazon.com/Fundamentals-Deep-Learning-Next-Generation-Intelligence/dp/1491925612/)
