@@ -1,7 +1,6 @@
 ---
 title: "Books"
 date: 2018-07-08T22:52:28+02:00
-draft: true
 ---
 
 ### Reading
