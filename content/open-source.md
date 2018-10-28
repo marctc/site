@@ -2,7 +2,7 @@
 title = 'Open Source'
 +++
 
-I love open source so I spent some of time contributing to the open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I contributed:
+I love free software so I spent some of time contributing to many open source projects either fixing bugs, improving documentation or adding new features. Here is a list of some projects that I maintain or contribute.
 
 ## DevOps
 
