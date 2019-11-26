@@ -5,14 +5,14 @@ date: 2018-07-08T22:52:28+02:00
 
 ### Reading
 
-* [Prometheus: Up & Running](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/)
+* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [SRE book](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
-* [Monitoring with Prometheus](https://www.amazon.com/Monitoring-Prometheus-James-Turnbull-ebook/dp/B07DPH8MN9/)
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 * [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965/)
 
 ### Read
 
+* [Prometheus: Up & Running](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142/)
 * [Introducing Istio Service Mesh for Microservices](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/)
 * [Kubernetes Cookbook](https://www.amazon.com/Kubernetes-Cookbook-Building-Native-Applications/dp/1491979682/)
 * [Kubernetes Up & Running](https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677/)
