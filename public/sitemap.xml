@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://marctuduri.com/blog/</loc>
+    <lastmod>2018-10-08T23:09:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/tags/kubernetes/</loc>
+    <lastmod>2018-10-08T23:09:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/tags/monitoring/</loc>
+    <lastmod>2018-10-08T23:09:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/tags/prometheus/</loc>
+    <lastmod>2018-10-08T23:09:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/tags/</loc>
+    <lastmod>2018-10-08T23:09:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/blog/using-prometheus-for-monitoring-django-applications-in-kubernetes/</loc>
+    <lastmod>2018-10-08T23:09:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/books/</loc>
+    <lastmod>2018-07-08T22:52:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/</loc>
+    <lastmod>2018-07-08T22:52:28+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/blog/new-site-with-hugo/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://marctuduri.com/open-source/</loc>
+  </url>
+  
+</urlset>
