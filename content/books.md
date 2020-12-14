@@ -3,10 +3,13 @@ title: "Books"
 date: 2018-07-08T22:52:28+02:00
 ---
 
+Technical books that I'm currently reading, I already read or they are pending to read.
+
 ### Reading
 
+
+* [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
 * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
-* [SRE book](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/)
 * [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 * [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965/)
 
@@ -29,10 +32,9 @@ date: 2018-07-08T22:52:28+02:00
 
 ### To Read
 
+* [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/)
 * [Distributed Systems](https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/)
 * [SQL Performance Explained](https://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/)
-* [Python Testing with Pytest](https://www.amazon.com/Python-Testing-pytest-Effective-Scalable/dp/1680502409)
-* [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/)
 * [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
 * [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 * [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
