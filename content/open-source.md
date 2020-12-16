@@ -9,6 +9,9 @@ I love free software so I spent some of time contributing to many open source pr
 ### Maintainer
 
 * [periskop](https://github.com/soundcloud/periskop): Exception aggregator for micro-service environments.
+    - [periskop-go](https://github.com/soundcloud/periskop-go):  Go client for Periskop. 
+    - [periskop-python](https://github.com/soundcloud/periskop-python):  Python client for Periskop. 
+
 * [Puput](https://github.com/APSL/puput): A Django blog app implemented in Wagtail.
     -   [wordpress-to-puput][]: Import your Wordpress blog data into Puput.
     -   [blogger-to-puput][]: Import your Blogger blog data into Puput.
