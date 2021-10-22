@@ -9,9 +9,7 @@ Technical books that I'm currently reading, I already read or they are pending t
 
 
 * [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
-* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
-* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
-* [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965/)
+* [Staff Engineering](https://www.amazon.com/gp/product/1736417916)
 
 ### Read
 
@@ -33,8 +31,7 @@ Technical books that I'm currently reading, I already read or they are pending t
 ### To Read
 
 * [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/)
+* [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 * [Distributed Systems](https://www.amazon.com/Distributed-Systems-Maarten-van-Steen/dp/1543057381/)
 * [SQL Performance Explained](https://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826/)
-* [Hackers & Painters](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
 * [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
-* [Hackers: Heroes of the Computer Revolution](https://www.amazon.com/Hackers-Computer-Revolution-Steven-Levy/dp/1449388396)
