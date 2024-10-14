@@ -2,7 +2,7 @@
 title = "Talks"
 +++
 
-I'm not actively doing talks in coferences (for now) but it's an interesting activity.
+I'm not actively doing talks in conferences (for now) but it's an interesting activity.
 Here's a list of some talks that I gave in the past:
 
 ## 2022

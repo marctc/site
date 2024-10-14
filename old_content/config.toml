@@ -1,15 +1,16 @@
 baseurl = "https://marctuduri.com/"
-theme = "cocoa-eh"
+theme = "hugo-blog-awesome"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
-languageCode = "en-US"
+defaultContentLanguage = "en-gb"
 layoutdir = "layouts"
 publishdir = "public"
 author = "Marc Tudurí"
 title = "Marc Tudurí"
 disqusshortname = ""
 pluralizelisttitles = false
+ignoreLogs = ['additional-script-loading-error']
 
 [permalinks]
 blog = "blog/:slug/"
@@ -55,3 +56,6 @@ type = "#97d28b"
 special = "#ffcb8d"
 value = "#96c2d7"
 statement = "#ff8e91"
+
+[[imports]]
+path = "github.com/jpanther/congo/v2"
