@@ -1,2 +1,3 @@
 baseURL = "https://marctuduri.com/"
 languageCode = "en"
+theme = "congo"

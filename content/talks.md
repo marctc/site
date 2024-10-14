@@ -1,6 +1,8 @@
-+++
-title = "Talks"
-+++
+---
+title: "Talks"
+showDate: false
+showReadingTime: false
+---
 
 I'm not actively doing talks in conferences (for now) but it's an interesting activity.
 Here's a list of some talks that I gave in the past:

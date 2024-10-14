@@ -1,10 +1,10 @@
-+++
-author = "Marc Tudurí"
-title = "Using Prometheus for monitoring Django applications in Kubernetes"
-date = 2018-10-08T23:09:04+02:00
-tags = ["prometheus","kubernetes", "monitoring"]
-description = "Using Prometheus for monitoring Django applications in Kubernetes"
-+++
+---
+author: "Marc Tudurí"
+title: "Using Prometheus for monitoring Django applications in Kubernetes"
+date: 2018-10-08
+tags: ["prometheus","kubernetes", "monitoring"]
+description: "Using Prometheus for monitoring Django applications in Kubernetes"
+---
 
 ### Django application deployment architecture
 

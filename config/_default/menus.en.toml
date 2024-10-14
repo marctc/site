@@ -1,0 +1,31 @@
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Talks"
+  pageRef = "talks"
+  weight = 20
+
+[[main]]
+  name = "GitHub"
+  url = "https://github.com/marctc"
+  weight = 40
+  [main.params]
+    icon = "github"
+    showName = false
+    target = "_blank"
+
+[[main]]
+  name = "Mastodon"
+  url = "https://hachyderm.io/@marctc"
+  weight = 50
+  [main.params]
+    icon = "mastodon"
+    showName = false
+    target = "_blank"
+
+[[footer]]
+  identifier = "appearance"
+  

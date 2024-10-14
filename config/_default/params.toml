@@ -1,0 +1,4 @@
+homepage.showRecent = true
+footer.showAppearanceSwitcher = true
+homepage.layout = "profile"
+article.showAuthor = false
